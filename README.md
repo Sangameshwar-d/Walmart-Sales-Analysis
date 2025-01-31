@@ -60,7 +60,8 @@ This project is an end-to-end data analysis solution designed to extract critica
      - Sales performance by time, city, and payment method.
      - Analyzing peak sales periods and customer buying patterns.
      - Profit margin analysis by branch and category.
-  
+
+---
 
 ## Requirements
 
@@ -69,18 +70,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 - **Python Libraries**:
   - `pandas`, `numpy`, `sqlalchemy`, `mysql-connector-python`, `psycopg2`
 - **Kaggle API Key** (for data downloading)
-
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone <repo-url>
-   ```
-2. Install Python libraries:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Set up your Kaggle API, download the data, and follow the steps to load and analyze.
 
 ---
 
@@ -94,7 +83,6 @@ This project is an end-to-end data analysis solution designed to extract critica
 |-- requirements.txt          # List of required Python libraries
 |-- main.py                   # Main script for loading, cleaning, and processing data
 ```
----
 
 ## Results and Insights
 
@@ -103,6 +91,8 @@ This section will include your analysis findings:
 - **Profitability**: Insights into the most profitable product categories and locations.
 - **Customer Behavior**: Trends in ratings, payment preferences, and peak shopping hours.
 
+---
+  
 ## Future Enhancements
 
 Possible extensions to this project:
